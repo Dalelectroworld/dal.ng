@@ -1,0 +1,53 @@
+.home-section{
+   background-image: url(../images/1000_F_323304787_wn6HvM3eevV9d197EX3fluijUGjX4c9r.jpg);
+   /* background-color: rgb(0, 0, 0); */
+   height: 90vh;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: white;
+   /* margin-left: 5rem; */
+   /* margin-right: 5rem; */
+}
+
+
+.home-section .name{
+ text-align: center;
+}
+.home-section .visit{
+    display: flex;
+    justify-items: center;
+    background-color: rgb(0 0, 20);
+    display: inline-block;
+    border-radius: 32px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: 37.5rem;
+    margin-top: 3rem;
+}
+.home-section .precaution .ca{
+    background-color: rgb(0, 0, 20);
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 32px;
+}
+
+.home-section .precaution .ha{
+    background-color: rgb(0, 0, 20);
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 32px;
+}
+.home-section .precaution .hv{
+    background-color: rgb(0, 0, 20);
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 32px;
+}
+.home-section .precaution{
+   display: flex;
+  justify-content: space-between;
+  margin-top: 5rem;
+  letter-spacing: 4px;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}

@@ -1,0 +1,11 @@
+.contact-us-section{
+    /* background-color: blue; */
+}
+
+.contact-us-section .contact{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    margin-left: 5rem;
+    line-height: 30px;
+    font-weight: 3rem;
+}

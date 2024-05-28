@@ -1,0 +1,81 @@
+.products-section{
+    /* background-color: rgb(1, 1, 31); */
+}
+
+.products-section .products{
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.products-section .right{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    line-height: 30px;
+    margin-left: 2rem;
+}
+
+.products-section .right img{
+    width: 400px;
+    padding-right: 8rem;
+}
+
+.products-section .right button{
+    color: rgb(255, 255, 255);
+    padding: 12px 12px;
+    border-radius: 12px;
+    font-weight: 24px;
+    background-color: rgb(7, 7, 51);
+    border-style: none;
+    align-items: end;
+}
+
+.products-section .wall{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    line-height: 30px;
+    margin-left: 2rem;
+}
+
+.products-section .wall img{
+    width: 400px;
+    padding-right: 8rem;
+}
+
+.products-section .wall button{
+    color: rgb(255, 255, 255);
+    padding: 12px 12px;
+    border-radius: 12px;
+    font-weight: 24px;
+    background-color: rgb(7, 7, 51);
+    border-style: none;
+    align-items: end;
+    margin-top: 3rem;
+}
+
+.products-section .solar{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    line-height: 30px;
+    margin-left: 2rem;
+}
+.products-section .solar img{
+    width: 400px;
+    padding-right: 8rem;
+}
+.products-section .solar button{
+    color: rgb(255, 255, 255);
+    padding: 12px 12px;
+    border-radius: 12px;
+    font-weight: 24px;
+    background-color: rgb(7, 7, 51);
+    border-style: none;
+    align-items: end;
+    margin-top: 1rem;
+    margin-bottom: 5rem;
+}
+
